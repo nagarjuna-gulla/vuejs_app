@@ -1,4 +1,9 @@
 body {
-	background:#red;
+	background:red;
+	font-size:2em;
+}
+
+p {
+	color:green;
 	font-size:2em;
 }
